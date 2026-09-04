@@ -7,7 +7,7 @@ about:
   head: b7c8f27
   archived: false
   latestVersion: 1.104.0
-  collectedAt: 2026-09-04T19:31:58Z
+  collectedAt: 2026-09-04T20:59:13Z
 timeline:
   created: 2016-10-31
   lastCommit: 2026-09-04
@@ -83,6 +83,49 @@ total:
   openIssue: 62
   commit: 2851
 ---
+path: /home/runner/.x-repo/github.com/sass/dart-sass
+collectedAt: 2026-09-04T20:59:15Z
+loc:
+  Dart:
+    code: 59120
+    comments: 13140
+    blanks: 9697
+    files: 444
+  TypeScript:
+    code: 33701
+    comments: 4095
+    blanks: 6595
+    files: 171
+  Json:
+    code: 147
+    comments: 0
+    blanks: 0
+    files: 6
+  Yaml:
+    code: 125
+    comments: 10
+    blanks: 14
+    files: 10
+  JavaScript:
+    code: 76
+    comments: 27
+    blanks: 20
+    files: 9
+  Html:
+    code: 14
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4926
+    blanks: 2727
+    files: 32
+total:
+  code: 93262
+  comments: 22207
+  blanks: 19067
+  files: 673
 ---
 date: "2026-08-24"
 repo:
