@@ -1,0 +1,59 @@
+about:
+  description: The reference implementation of Sass, written in Dart.
+  license: MIT
+  homepage: https://sass-lang.com/dart-sass
+  head: 72446f8
+  archived: false
+  latestVersion: 1.104.0
+  collectedAt: 2026-09-04T04:26:57Z
+timeline:
+  created: 2016-10-31
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-03
+popularity:
+  star: 4218
+  watcher: 71
+  fork: 381
+  release: 326
+  contributor: 77
+  pullRequest: 127
+  issue: 1237
+language:
+  Dart: 2605267
+  TypeScript: 1289184
+  JavaScript: 4176
+  HTML: 462
+totalLine: 3899089
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 3
+    mergedPR: 16
+    openPR: 5
+    closedIssue: 1
+    openIssue: 4
+    commit: 28
+  last90d:
+    since: 2026-06-06
+    release: 10
+    mergedPR: 50
+    openPR: 5
+    closedIssue: 8
+    openIssue: 4
+    commit: 62
+  last180d:
+    since: 2026-03-08
+    release: 13
+    mergedPR: 65
+    openPR: 6
+    closedIssue: 10
+    openIssue: 6
+    commit: 71
+  last360d:
+    since: 2025-09-09
+    release: 28
+    mergedPR: 134
+    openPR: 7
+    closedIssue: 32
+    openIssue: 7
+    commit: 130
