@@ -5,7 +5,7 @@ about:
   head: f19baab
   archived: false
   latestVersion: "1.104.0"
-  collectedAt: 2026-09-08T03:13:38Z
+  collectedAt: 2026-09-08T05:59:49Z
 timeline:
   created: 2016-10-31
   lastCommit: 2026-09-08
@@ -82,7 +82,7 @@ total:
   commit: 2857
 ---
 path: /home/runner/.x-repo/github.com/sass/dart-sass
-collectedAt: 2026-09-08T03:13:40Z
+collectedAt: 2026-09-08T05:59:51Z
 loc:
   Dart:
     code: 59120
