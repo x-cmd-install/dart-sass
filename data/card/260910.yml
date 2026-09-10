@@ -7,7 +7,7 @@ about:
   latestVersion: "1.104.0"
   latestRelease: "1.104.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:27:41Z
+  collectedAt: 2026-09-10T21:43:51Z
 timeline:
   created: 2016-10-31
   lastCommit: 2026-09-08
@@ -86,7 +86,7 @@ total:
   commit: 2858
 ---
 path: /home/runner/.x-repo/github.com/sass/dart-sass
-collectedAt: 2026-09-10T18:27:50Z
+collectedAt: 2026-09-10T21:43:55Z
 loc:
   Dart:
     code: 59124
