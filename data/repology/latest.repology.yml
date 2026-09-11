@@ -1,7 +1,18 @@
-- repo: nix_stable_25_11
+- repo: nix_stable_24_11
   srcname: dart-sass
   visiblename: dart-sass
-  version: 1.94.2
+  version: 1.80.5
+  origversion: null
+  status: outdated
+  summary: Reference implementation of Sass, written in Dart
+  maintainers:
+    - lelgenio@lelgenio.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: dart-sass
+  visiblename: dart-sass
+  version: 1.87.0
   origversion: null
   status: outdated
   summary: Reference implementation of Sass, written in Dart
@@ -35,6 +46,17 @@
     - knuxify@gmail.com
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: dart-sass
+  visiblename: dart-sass
+  version: 1.94.2
+  origversion: null
+  status: outdated
+  summary: Reference implementation of Sass, written in Dart
+  maintainers:
+    - lelgenio@lelgenio.com
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: dart-sass-js
@@ -46,17 +68,6 @@
   summary: The reference implementation of Sass, written in Dart (JS/Node version)
   maintainers:
     - knuxify@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.100.0
-  origversion: null
-  status: outdated
-  summary: Reference implementation of Sass, written in Dart
-  maintainers:
-    - lelgenio@lelgenio.com
   licenses:
     - MIT
 - repo: alpine_edge
@@ -131,7 +142,7 @@
   visiblename: dart-sass
   version: 1.104.0
   origversion: 1.104.0-1
-  status: newest
+  status: outdated
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -142,7 +153,7 @@
   visiblename: dart-sass
   version: 1.104.0
   origversion: 1.104.0-1
-  status: newest
+  status: outdated
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -151,12 +162,12 @@
   visiblename: Sass
   version: 1.104.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Sass makes CSS fun again.
 - repo: homebrew
   srcname: dart-sass
   visiblename: dart-sass
-  version: 1.104.0
+  version: 1.104.1
   origversion: null
   status: newest
   summary: Reference implementation of Sass, written in Dart
@@ -181,7 +192,7 @@
   visiblename: dart-sass
   version: 1.104.0
   origversion: 1.104.0-1
-  status: newest
+  status: outdated
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -192,7 +203,7 @@
   visiblename: dart-sass
   version: 1.104.0
   origversion: 1.104.0-1
-  status: newest
+  status: outdated
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -203,7 +214,7 @@
   visiblename: dart-sass
   version: 1.104.0
   origversion: 1.104.0-1
-  status: newest
+  status: outdated
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -218,21 +229,10 @@
     - lelgenio@disroot.org
   licenses:
     - MIT
-- repo: nix_stable_24_11
+- repo: nix_stable_26_05
   srcname: dart-sass
   visiblename: dart-sass
-  version: 1.80.5
-  origversion: null
-  status: outdated
-  summary: Reference implementation of Sass, written in Dart
-  maintainers:
-    - lelgenio@lelgenio.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.87.0
+  version: 1.100.0
   origversion: null
   status: outdated
   summary: Reference implementation of Sass, written in Dart
@@ -306,7 +306,7 @@
   visiblename: dart-sass
   version: 1.104.0
   origversion: 1.104.0-1
-  status: newest
+  status: outdated
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -316,7 +316,7 @@
   visiblename: sass
   version: 1.104.0
   origversion: null
-  status: newest
+  status: outdated
   licenses:
     - MIT
 - repo: slackbuilds
@@ -431,7 +431,7 @@
   visiblename: sass
   version: 1.104.0
   origversion: 1.104.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The reference implementation of Sass, written in Dart
   licenses:
     - MIT
@@ -443,7 +443,7 @@
   visiblename: sass
   version: 1.104.0
   origversion: 1.104.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The reference implementation of Sass, written in Dart
   licenses:
     - MIT
