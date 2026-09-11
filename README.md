@@ -14,11 +14,11 @@ x install dart-sass
 
 ## Code insight
 
-Total: **93,187** lines of code across **640** files in the top 5 languages.
+Total: **93,305** lines of code across **640** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Dart | 59,124 | 13,144 | 9,701 | 444 |
+| Dart | 59,242 | 13,168 | 9,718 | 444 |
 | TypeScript | 33,701 | 4,095 | 6,595 | 171 |
 | Json | 147 | 0 | 0 | 6 |
 | Yaml | 125 | 10 | 14 | 10 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.104.0` (2026-09-03)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-11
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 4,218 · **Forks**: 380 · **Open issues**: 1,237 · **Contributors**: 70
+- **Stars**: 4,218 · **Forks**: 380 · **Open issues**: 1,237 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 326 · **Merged PRs**: 1444 · **Open PRs**: 9 · **Closed issues**: 1176 · **Open issues**: 61 · **Commits**: 2858
+- **Releases**: 326 · **Merged PRs**: 1446 · **Open PRs**: 7 · **Closed issues**: 1177 · **Open issues**: 60 · **Commits**: 2863
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 16 | 3 | 3 | 2 | 24 |
-| last60d | 2026-07-12 | 9 | 39 | 3 | 8 | 2 | 51 |
-| 90d | 2026-06-12 | 9 | 52 | 3 | 9 | 2 | 65 |
-| last180d | 2026-03-14 | 12 | 67 | 4 | 12 | 4 | 74 |
-| 360d | 2025-09-15 | 28 | 139 | 5 | 33 | 5 | 134 |
-| last720d | 2024-09-20 | 63 | 292 | 6 | 129 | 12 | 318 |
+| 30d | 2026-08-12 | 3 | 17 | 1 | 4 | 1 | 28 |
+| last60d | 2026-07-13 | 9 | 41 | 1 | 8 | 1 | 55 |
+| 90d | 2026-06-13 | 9 | 54 | 1 | 10 | 1 | 69 |
+| last180d | 2026-03-15 | 12 | 69 | 2 | 13 | 3 | 78 |
+| 360d | 2025-09-16 | 28 | 141 | 3 | 34 | 4 | 138 |
+| last720d | 2024-09-21 | 62 | 294 | 4 | 130 | 11 | 322 |
 
 ## Release assets
 
@@ -88,12 +88,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **38** distros on [repology.org](https://repology.org/project/dart-sass). **11** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/dart-sass). **1** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.104.0` | ✅ latest |
-| Homebrew | `1.104.0` | ✅ latest |
+| Arch | `1.104.0` | ⚠️ outdated |
+| Homebrew | `1.104.1` | ✅ latest |
 | Nix unstable | `1.103.0` | ⚠️ outdated |
 | Alpine edge | `1.102.0` | ⚠️ outdated |
 
@@ -106,4 +106,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:18:21Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:02:24Z._
