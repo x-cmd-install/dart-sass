@@ -7,7 +7,7 @@ about:
   latestVersion: "1.104.0"
   latestRelease: "1.104.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:02:13Z
+  collectedAt: 2026-09-11T18:51:10Z
 timeline:
   created: 2016-10-31
   lastCommit: 2026-09-11
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 
 popularity:
-  star: 4218
+  star: 4219
   watcher: 71
   fork: 380
   release: 326
   contributor: 71
   pullRequest: 1571
-  issue: 1237
+  issue: 1238
 language:
   Dart: 2611569
   TypeScript: 1289184
@@ -35,7 +35,7 @@ recent:
     mergedPR: 17
     openPR: 1
     closedIssue: 4
-    openIssue: 1
+    openIssue: 2
     commit: 28
   last60d:
     since: 2026-07-13
@@ -43,7 +43,7 @@ recent:
     mergedPR: 41
     openPR: 1
     closedIssue: 8
-    openIssue: 1
+    openIssue: 2
     commit: 55
   last90d:
     since: 2026-06-13
@@ -51,7 +51,7 @@ recent:
     mergedPR: 54
     openPR: 1
     closedIssue: 10
-    openIssue: 1
+    openIssue: 2
     commit: 69
   last180d:
     since: 2026-03-15
@@ -59,7 +59,7 @@ recent:
     mergedPR: 69
     openPR: 2
     closedIssue: 13
-    openIssue: 3
+    openIssue: 4
     commit: 78
   last360d:
     since: 2025-09-16
@@ -67,7 +67,7 @@ recent:
     mergedPR: 141
     openPR: 3
     closedIssue: 34
-    openIssue: 4
+    openIssue: 5
     commit: 138
   last720d:
     since: 2024-09-21
@@ -75,18 +75,18 @@ recent:
     mergedPR: 294
     openPR: 4
     closedIssue: 130
-    openIssue: 11
+    openIssue: 12
     commit: 322
 total:
   release: 326
   mergedPR: 1446
   openPR: 7
   closedIssue: 1177
-  openIssue: 60
+  openIssue: 61
   commit: 2863
 ---
 path: /home/runner/.x-repo/github.com/sass/dart-sass
-collectedAt: 2026-09-11T06:02:16Z
+collectedAt: 2026-09-11T18:51:13Z
 loc:
   Dart:
     code: 59242
