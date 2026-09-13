@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `1.104.0` (2026-09-03)
+- **Latest**: `1.104.1` (2026-09-12)
 - **Last commit**: 2026-09-11
 - **Assets in release**: 16
 
@@ -52,47 +52,47 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 326 · **Merged PRs**: 1446 · **Open PRs**: 7 · **Closed issues**: 1177 · **Open issues**: 61 · **Commits**: 2863
+- **Releases**: 327 · **Merged PRs**: 1446 · **Open PRs**: 7 · **Closed issues**: 1178 · **Open issues**: 60 · **Commits**: 2863
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 17 | 1 | 4 | 2 | 28 |
-| last60d | 2026-07-14 | 9 | 41 | 1 | 8 | 2 | 55 |
-| 90d | 2026-06-14 | 9 | 54 | 1 | 10 | 2 | 69 |
-| last180d | 2026-03-16 | 12 | 69 | 2 | 13 | 4 | 78 |
-| 360d | 2025-09-17 | 28 | 141 | 3 | 34 | 5 | 138 |
-| last720d | 2024-09-22 | 62 | 294 | 4 | 130 | 12 | 322 |
+| 30d | 2026-08-14 | 4 | 16 | 1 | 5 | 1 | 28 |
+| last60d | 2026-07-15 | 10 | 41 | 1 | 9 | 1 | 55 |
+| 90d | 2026-06-15 | 10 | 53 | 1 | 11 | 1 | 69 |
+| last180d | 2026-03-17 | 13 | 69 | 2 | 14 | 3 | 78 |
+| 360d | 2025-09-18 | 29 | 140 | 3 | 35 | 4 | 138 |
+| last720d | 2024-09-23 | 63 | 293 | 4 | 129 | 11 | 322 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dart-sass-1.104.0-android-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-android-arm.tar.gz) | 4.0 MiB | `native/linux/arm` |
-| [dart-sass-1.104.0-android-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-android-arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [dart-sass-1.104.0-android-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-android-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
-| [dart-sass-1.104.0-android-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-android-x64.tar.gz) | 4.3 MiB | `native/unknown` |
-| [dart-sass-1.104.0-linux-arm-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-linux-arm-musl.tar.gz) | 4.0 MiB | `native/linux/arm/musl` |
-| [dart-sass-1.104.0-linux-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-linux-arm.tar.gz) | 3.9 MiB | `native/linux/arm` |
-| [dart-sass-1.104.0-linux-arm64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-linux-arm64-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
-| [dart-sass-1.104.0-linux-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-linux-arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
-| [dart-sass-1.104.0-linux-riscv64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-linux-riscv64-musl.tar.gz) | 4.8 MiB | `native/linux/riscv64/musl` |
-| [dart-sass-1.104.0-linux-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-linux-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
-| [dart-sass-1.104.0-linux-x64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-linux-x64-musl.tar.gz) | 4.2 MiB | `native/unknown` |
-| [dart-sass-1.104.0-linux-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
-| [dart-sass-1.104.0-macos-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-macos-arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
-| [dart-sass-1.104.0-macos-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-macos-x64.tar.gz) | 4.2 MiB | `native/darwin/x64` |
-| [dart-sass-1.104.0-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
-| [dart-sass-1.104.0-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.104.0/dart-sass-1.104.0-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
+| [dart-sass-1.104.1-android-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-android-arm.tar.gz) | 4.0 MiB | `native/linux/arm` |
+| [dart-sass-1.104.1-android-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-android-arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [dart-sass-1.104.1-android-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-android-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
+| [dart-sass-1.104.1-android-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-android-x64.tar.gz) | 4.3 MiB | `native/unknown` |
+| [dart-sass-1.104.1-linux-arm-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-linux-arm-musl.tar.gz) | 4.0 MiB | `native/linux/arm/musl` |
+| [dart-sass-1.104.1-linux-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-linux-arm.tar.gz) | 3.9 MiB | `native/linux/arm` |
+| [dart-sass-1.104.1-linux-arm64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-linux-arm64-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [dart-sass-1.104.1-linux-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-linux-arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [dart-sass-1.104.1-linux-riscv64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-linux-riscv64-musl.tar.gz) | 4.8 MiB | `native/linux/riscv64/musl` |
+| [dart-sass-1.104.1-linux-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-linux-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
+| [dart-sass-1.104.1-linux-x64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-linux-x64-musl.tar.gz) | 4.2 MiB | `native/unknown` |
+| [dart-sass-1.104.1-linux-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
+| [dart-sass-1.104.1-macos-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-macos-arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [dart-sass-1.104.1-macos-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-macos-x64.tar.gz) | 4.2 MiB | `native/darwin/x64` |
+| [dart-sass-1.104.1-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
+| [dart-sass-1.104.1-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.104.1/dart-sass-1.104.1-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **38** distros on [repology.org](https://repology.org/project/dart-sass). **1** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/dart-sass). **4** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.104.0` | ⚠️ outdated |
+| Arch | `1.104.1` | ✅ latest |
 | Homebrew | `1.104.1` | ✅ latest |
 | Nix unstable | `1.103.0` | ⚠️ outdated |
 | Alpine edge | `1.102.0` | ⚠️ outdated |
@@ -106,4 +106,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:56:07Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:19:20Z._
