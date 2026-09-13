@@ -1,25 +1,31 @@
-- repo: nix_stable_24_11
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.80.5
-  origversion: null
+- repo: terra_41
+  srcname: sass
+  binname: sass
+  visiblename: sass
+  version: 1.94.2
+  origversion: 1.94.2-1.fc41
   status: outdated
-  summary: Reference implementation of Sass, written in Dart
-  maintainers:
-    - lelgenio@lelgenio.com
+  summary: The reference implementation of Sass, written in Dart
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.87.0
-  origversion: null
+  categories:
+    - Unspecified
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: sass
+  binnames:
+    - sass
+  visiblename: sass
+  version: 1.86.0
+  origversion: 1.86.0-1
   status: outdated
-  summary: Reference implementation of Sass, written in Dart
+  summary: The reference implementation of Sass, written in Dart
   maintainers:
-    - lelgenio@lelgenio.com
+    - azure.grade9592@eagereverest.com
   licenses:
     - MIT
+  categories:
+    - Unspecified
 - repo: alpine_3_22
   subrepo: community
   srcname: dart-sass-js
@@ -44,17 +50,6 @@
   summary: The reference implementation of Sass, written in Dart (JS/Node version)
   maintainers:
     - knuxify@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.94.2
-  origversion: null
-  status: outdated
-  summary: Reference implementation of Sass, written in Dart
-  maintainers:
-    - lelgenio@lelgenio.com
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -140,9 +135,9 @@
   srcname: dart-sass
   binname: dart-sass
   visiblename: dart-sass
-  version: 1.104.0
-  origversion: 1.104.0-1
-  status: outdated
+  version: 1.104.1
+  origversion: 1.104.1-1
+  status: newest
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -212,9 +207,9 @@
   srcname: dart-sass
   binname: dart-sass
   visiblename: dart-sass
-  version: 1.104.0
-  origversion: 1.104.0-1
-  status: outdated
+  version: 1.104.1
+  origversion: 1.104.1-1
+  status: newest
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -227,6 +222,39 @@
   summary: The reference implementation of Sass, written in Dart
   maintainers:
     - lelgenio@disroot.org
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: dart-sass
+  visiblename: dart-sass
+  version: 1.80.5
+  origversion: null
+  status: outdated
+  summary: Reference implementation of Sass, written in Dart
+  maintainers:
+    - lelgenio@lelgenio.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: dart-sass
+  visiblename: dart-sass
+  version: 1.87.0
+  origversion: null
+  status: outdated
+  summary: Reference implementation of Sass, written in Dart
+  maintainers:
+    - lelgenio@lelgenio.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: dart-sass
+  visiblename: dart-sass
+  version: 1.94.2
+  origversion: null
+  status: outdated
+  summary: Reference implementation of Sass, written in Dart
+  maintainers:
+    - lelgenio@lelgenio.com
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -251,22 +279,6 @@
     - lelgenio@lelgenio.com
   licenses:
     - MIT
-- repo: openmandriva_6_0
-  subrepo: main/release
-  srcname: sass
-  binnames:
-    - sass
-  visiblename: sass
-  version: 1.86.0
-  origversion: 1.86.0-1
-  status: outdated
-  summary: The reference implementation of Sass, written in Dart
-  maintainers:
-    - azure.grade9592@eagereverest.com
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: sass
@@ -314,9 +326,9 @@
   subrepo: main
   binname: sass
   visiblename: sass
-  version: 1.104.0
+  version: 1.104.1
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - MIT
 - repo: slackbuilds
@@ -395,18 +407,6 @@
   visiblename: sass
   version: 1.89.2
   origversion: 1.89.2-1.fc40
-  status: outdated
-  summary: The reference implementation of Sass, written in Dart
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_41
-  srcname: sass
-  binname: sass
-  visiblename: sass
-  version: 1.94.2
-  origversion: 1.94.2-1.fc41
   status: outdated
   summary: The reference implementation of Sass, written in Dart
   licenses:
