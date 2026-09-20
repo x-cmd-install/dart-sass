@@ -4,7 +4,7 @@
 
 The reference implementation of Sass, written in Dart.
 
-![dart-sass](https://repo.x-cmd.io/dart-sass.svg)
+[![x-cmd/install — dart-sass Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dart-sass.svg)](https://x-cmd.com/install/dart-sass)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install dart-sass
 
 ## Code insight
 
-Total: **93,305** lines of code across **640** files in the top 5 languages.
+Total: **93,523** lines of code across **642** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Dart | 59,242 | 13,168 | 9,718 | 444 |
+| Dart | 59,460 | 13,231 | 9,757 | 446 |
 | TypeScript | 33,701 | 4,095 | 6,595 | 171 |
 | Json | 147 | 0 | 0 | 6 |
 | Yaml | 125 | 10 | 14 | 10 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.104.1` (2026-09-12)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-18
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 327 · **Merged PRs**: 1447 · **Open PRs**: 9 · **Closed issues**: 1178 · **Open issues**: 61 · **Commits**: 2864
+- **Releases**: 327 · **Merged PRs**: 1448 · **Open PRs**: 8 · **Closed issues**: 1178 · **Open issues**: 61 · **Commits**: 2865
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 15 | 3 | 5 | 2 | 18 |
-| last60d | 2026-07-20 | 10 | 42 | 3 | 8 | 2 | 54 |
-| 90d | 2026-06-20 | 10 | 54 | 3 | 11 | 2 | 68 |
-| last180d | 2026-03-22 | 13 | 70 | 4 | 14 | 4 | 78 |
-| 360d | 2025-09-23 | 27 | 136 | 5 | 34 | 5 | 135 |
-| last720d | 2024-09-28 | 63 | 291 | 6 | 127 | 12 | 322 |
+| 30d | 2026-08-21 | 2 | 15 | 2 | 5 | 2 | 19 |
+| last60d | 2026-07-22 | 9 | 34 | 2 | 7 | 2 | 55 |
+| 90d | 2026-06-22 | 10 | 53 | 2 | 10 | 2 | 69 |
+| last180d | 2026-03-24 | 13 | 70 | 3 | 14 | 4 | 79 |
+| 360d | 2025-09-25 | 26 | 136 | 4 | 34 | 5 | 136 |
+| last720d | 2024-09-30 | 62 | 292 | 5 | 127 | 12 | 322 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:22:57Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:13:15Z._
