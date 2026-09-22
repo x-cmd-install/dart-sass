@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.104.1` (2026-09-12)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-22
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 327 · **Merged PRs**: 1448 · **Open PRs**: 8 · **Closed issues**: 1178 · **Open issues**: 61 · **Commits**: 2865
+- **Releases**: 327 · **Merged PRs**: 1449 · **Open PRs**: 8 · **Closed issues**: 1178 · **Open issues**: 61 · **Commits**: 2866
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 15 | 2 | 5 | 2 | 19 |
-| last60d | 2026-07-23 | 7 | 33 | 2 | 7 | 2 | 40 |
-| 90d | 2026-06-23 | 10 | 53 | 2 | 10 | 2 | 67 |
-| last180d | 2026-03-25 | 13 | 70 | 3 | 14 | 4 | 79 |
-| 360d | 2025-09-26 | 26 | 136 | 4 | 34 | 5 | 136 |
-| last720d | 2024-10-01 | 62 | 291 | 5 | 125 | 12 | 321 |
+| 30d | 2026-08-23 | 2 | 16 | 2 | 5 | 1 | 20 |
+| last60d | 2026-07-24 | 5 | 34 | 2 | 7 | 2 | 41 |
+| 90d | 2026-06-24 | 10 | 54 | 2 | 10 | 2 | 68 |
+| last180d | 2026-03-26 | 13 | 71 | 3 | 14 | 4 | 80 |
+| 360d | 2025-09-27 | 26 | 137 | 4 | 34 | 5 | 137 |
+| last720d | 2024-10-02 | 62 | 290 | 5 | 125 | 12 | 320 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:21:39Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:21:46Z._
