@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4197525,
       "digest": "sha256:824624e3c7a8176465e96e4347bc6ca4603cbf0aa87ba8b0a2eab1209ab55fc0",
-      "download_count": 76,
+      "download_count": 86,
       "created_at": "2026-09-22T17:33:52Z",
       "updated_at": "2026-09-22T17:33:52Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-android-arm.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4375840,
       "digest": "sha256:0c3bba4e724f73ba16ec3bc4246d5200b47d784d727d7761477b6a589391070f",
-      "download_count": 76,
+      "download_count": 86,
       "created_at": "2026-09-22T17:33:52Z",
       "updated_at": "2026-09-22T17:33:52Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-android-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4910714,
       "digest": "sha256:c00e9f5549652fb4e9896439cf6f82aa7cc4dc38e35cccd5c815c3a625c14f85",
-      "download_count": 76,
+      "download_count": 86,
       "created_at": "2026-09-22T17:33:52Z",
       "updated_at": "2026-09-22T17:33:52Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-android-riscv64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4488817,
       "digest": "sha256:6bf59668d6607fb2fa7b9adc7a477f4d0d737b59734f132a694e029edd8bd8b6",
-      "download_count": 76,
+      "download_count": 86,
       "created_at": "2026-09-22T17:33:52Z",
       "updated_at": "2026-09-22T17:33:52Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-android-x64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4192634,
       "digest": "sha256:c245cb7f58ce5d779dc0fd2977a828625310afaac6a379e25f9ddff1d2225709",
-      "download_count": 28,
+      "download_count": 35,
       "created_at": "2026-09-22T17:33:52Z",
       "updated_at": "2026-09-22T17:33:52Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-linux-arm-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4124776,
       "digest": "sha256:5d666aebdb096c3849c78d22d207c96c57b81bb353923ded48cdf90950db8e16",
-      "download_count": 28,
+      "download_count": 35,
       "created_at": "2026-09-22T17:33:52Z",
       "updated_at": "2026-09-22T17:33:53Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-linux-arm.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4369646,
       "digest": "sha256:98fbeaea1674851cba3b6f854fa3ff00a73bf8bd6056c0e8a768c47d4f578b43",
-      "download_count": 34,
+      "download_count": 56,
       "created_at": "2026-09-22T17:33:52Z",
       "updated_at": "2026-09-22T17:33:53Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-linux-arm64-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4316412,
       "digest": "sha256:b7e4f1e19a91afd35cedadb8b814ee24627a96af9777632040fd3719c2fa43d7",
-      "download_count": 155,
+      "download_count": 250,
       "created_at": "2026-09-22T17:33:53Z",
       "updated_at": "2026-09-22T17:33:53Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-linux-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5066711,
       "digest": "sha256:5b3b99439494484f8d2f7380c4bac31e2a9d56bf0f4d2534b904e64040887423",
-      "download_count": 28,
+      "download_count": 35,
       "created_at": "2026-09-22T17:33:53Z",
       "updated_at": "2026-09-22T17:33:53Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-linux-riscv64-musl.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4885558,
       "digest": "sha256:86913df2b6abab5523bc5528f4e6b3554270a41f76c267b60eaf61a5c0d2a524",
-      "download_count": 28,
+      "download_count": 35,
       "created_at": "2026-09-22T17:33:53Z",
       "updated_at": "2026-09-22T17:33:53Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-linux-riscv64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4462318,
       "digest": "sha256:b71b36d88354825b57eaffed397538aa84d2e8840e8d2fe13dd57cd8aa3a3914",
-      "download_count": 103,
+      "download_count": 143,
       "created_at": "2026-09-22T17:33:53Z",
       "updated_at": "2026-09-22T17:33:53Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-linux-x64-musl.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4404325,
       "digest": "sha256:2620fa32fdc09411469539e3b678a31a4f164ed704aaee9f8f1ab664dbaa153b",
-      "download_count": 517,
+      "download_count": 1237,
       "created_at": "2026-09-22T17:33:53Z",
       "updated_at": "2026-09-22T17:33:54Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-linux-x64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4249866,
       "digest": "sha256:4f372dfd8c843557bff40112e4a2a049cad4c183dbe8552bc8c58ea9c31ed2b8",
-      "download_count": 169,
+      "download_count": 238,
       "created_at": "2026-09-22T17:33:53Z",
       "updated_at": "2026-09-22T17:33:54Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-macos-arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4437523,
       "digest": "sha256:ee5450c30a61bb2d76bded04101fe0e35fcfe2a183b33ec91300173c5267a0fa",
-      "download_count": 34,
+      "download_count": 54,
       "created_at": "2026-09-22T17:33:53Z",
       "updated_at": "2026-09-22T17:33:54Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-macos-x64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4687814,
       "digest": "sha256:17b5623b82d1ec06e20caee75ae44dabdb3dfc0828ede684b1b5c93653df25ba",
-      "download_count": 61,
+      "download_count": 82,
       "created_at": "2026-09-22T17:33:53Z",
       "updated_at": "2026-09-22T17:33:54Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-windows-arm64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4784370,
       "digest": "sha256:720463a7c0554641e17239e6b359f24fa5c5bc10776c25236e29c45416ddff07",
-      "download_count": 177,
+      "download_count": 342,
       "created_at": "2026-09-22T17:33:54Z",
       "updated_at": "2026-09-22T17:33:54Z",
       "browser_download_url": "https://github.com/sass/dart-sass/releases/download/1.105.0/dart-sass-1.105.0-windows-x64.zip"
