@@ -14,11 +14,11 @@ x install dart-sass
 
 ## Code insight
 
-Total: **93,764** lines of code across **642** files in the top 5 languages.
+Total: **93,967** lines of code across **643** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Dart | 59,694 | 13,406 | 9,778 | 446 |
+| Dart | 59,897 | 13,452 | 9,821 | 447 |
 | TypeScript | 33,708 | 4,097 | 6,597 | 171 |
 | Json | 147 | 0 | 0 | 6 |
 | Yaml | 125 | 10 | 14 | 10 |
@@ -42,49 +42,49 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `1.105.2` (2026-10-16)
-- **Last commit**: 2026-10-19
+- **Latest**: `1.106.0` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 4,234 · **Forks**: 382 · **Open issues**: 1,241 · **Contributors**: 71
+- **Stars**: 4,234 · **Forks**: 382 · **Open issues**: 1,243 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 330 · **Merged PRs**: 1461 · **Open PRs**: 12 · **Closed issues**: 1179 · **Open issues**: 62 · **Commits**: 2878
+- **Releases**: 331 · **Merged PRs**: 1463 · **Open PRs**: 10 · **Closed issues**: 1180 · **Open issues**: 63 · **Commits**: 2884
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 3 | 12 | 6 | 0 | 2 | 10 |
-| last60d | 2026-08-21 | 5 | 28 | 7 | 6 | 3 | 31 |
-| 90d | 2026-07-22 | 12 | 47 | 7 | 8 | 3 | 61 |
-| last180d | 2026-04-23 | 15 | 80 | 7 | 15 | 4 | 90 |
-| 360d | 2025-10-25 | 29 | 145 | 8 | 34 | 6 | 145 |
-| last720d | 2024-10-30 | 57 | 278 | 8 | 109 | 13 | 305 |
+| 30d | 2026-09-21 | 4 | 14 | 4 | 1 | 3 | 15 |
+| last60d | 2026-08-22 | 6 | 30 | 5 | 7 | 4 | 36 |
+| 90d | 2026-07-23 | 11 | 48 | 5 | 9 | 4 | 66 |
+| last180d | 2026-04-24 | 16 | 82 | 5 | 16 | 5 | 95 |
+| 360d | 2025-10-26 | 30 | 147 | 6 | 35 | 7 | 150 |
+| last720d | 2024-10-31 | 58 | 280 | 6 | 107 | 14 | 310 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dart-sass-1.105.2-android-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-android-arm.tar.gz) | 4.0 MiB | `native/linux/arm` |
-| [dart-sass-1.105.2-android-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-android-arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [dart-sass-1.105.2-android-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-android-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
-| [dart-sass-1.105.2-android-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-android-x64.tar.gz) | 4.3 MiB | `native/unknown` |
-| [dart-sass-1.105.2-linux-arm-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-linux-arm-musl.tar.gz) | 4.0 MiB | `native/linux/arm/musl` |
-| [dart-sass-1.105.2-linux-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-linux-arm.tar.gz) | 3.9 MiB | `native/linux/arm` |
-| [dart-sass-1.105.2-linux-arm64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-linux-arm64-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
-| [dart-sass-1.105.2-linux-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-linux-arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
-| [dart-sass-1.105.2-linux-riscv64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-linux-riscv64-musl.tar.gz) | 4.8 MiB | `native/linux/riscv64/musl` |
-| [dart-sass-1.105.2-linux-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-linux-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
-| [dart-sass-1.105.2-linux-x64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-linux-x64-musl.tar.gz) | 4.3 MiB | `native/unknown` |
-| [dart-sass-1.105.2-linux-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
-| [dart-sass-1.105.2-macos-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-macos-arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
-| [dart-sass-1.105.2-macos-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-macos-x64.tar.gz) | 4.2 MiB | `native/darwin/x64` |
-| [dart-sass-1.105.2-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
-| [dart-sass-1.105.2-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.105.2/dart-sass-1.105.2-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
+| [dart-sass-1.106.0-android-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-android-arm.tar.gz) | 4.0 MiB | `native/linux/arm` |
+| [dart-sass-1.106.0-android-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-android-arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [dart-sass-1.106.0-android-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-android-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
+| [dart-sass-1.106.0-android-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-android-x64.tar.gz) | 4.3 MiB | `native/unknown` |
+| [dart-sass-1.106.0-linux-arm-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-arm-musl.tar.gz) | 4.0 MiB | `native/linux/arm/musl` |
+| [dart-sass-1.106.0-linux-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-arm.tar.gz) | 3.9 MiB | `native/linux/arm` |
+| [dart-sass-1.106.0-linux-arm64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-arm64-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [dart-sass-1.106.0-linux-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [dart-sass-1.106.0-linux-riscv64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-riscv64-musl.tar.gz) | 4.8 MiB | `native/linux/riscv64/musl` |
+| [dart-sass-1.106.0-linux-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
+| [dart-sass-1.106.0-linux-x64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-x64-musl.tar.gz) | 4.3 MiB | `native/unknown` |
+| [dart-sass-1.106.0-linux-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
+| [dart-sass-1.106.0-macos-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-macos-arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
+| [dart-sass-1.106.0-macos-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-macos-x64.tar.gz) | 4.2 MiB | `native/darwin/x64` |
+| [dart-sass-1.106.0-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
+| [dart-sass-1.106.0-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:55:58Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:49:41Z._
