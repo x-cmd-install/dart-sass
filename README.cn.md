@@ -14,11 +14,11 @@ x install dart-sass
 
 ## 代码洞察
 
-合计: **93,967** 行代码（覆盖前 5 种语言、共 **643** 个文件）。
+合计: **93,985** 行代码（覆盖前 5 种语言、共 **643** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Dart | 59,897 | 13,452 | 9,821 | 447 |
+| Dart | 59,915 | 13,462 | 9,824 | 447 |
 | TypeScript | 33,708 | 4,097 | 6,597 | 171 |
 | Json | 147 | 0 | 0 | 6 |
 | Yaml | 125 | 10 | 14 | 10 |
@@ -42,7 +42,7 @@ x install dart-sass
 
 ## 发布
 
-- **最新版本**: `1.106.0` (2026-10-21)
+- **最新版本**: `1.106.1` (2026-10-21)
 - **最近提交**: 2026-10-21
 - **Release 含资产**: 16 个
 
@@ -52,39 +52,39 @@ x install dart-sass
 
 ## 累计统计
 
-- **发布数**: 331 · **已合并 PR**: 1463 · **开放 PR**: 10 · **已关闭 issue**: 1180 · **开放 issue**: 63 · **提交数**: 2884
+- **发布数**: 332 · **已合并 PR**: 1466 · **开放 PR**: 10 · **已关闭 issue**: 1183 · **开放 issue**: 60 · **提交数**: 2887
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 4 | 14 | 4 | 1 | 3 | 15 |
-| last60d | 2026-08-22 | 6 | 30 | 5 | 7 | 4 | 36 |
-| 90d | 2026-07-23 | 11 | 48 | 5 | 9 | 4 | 66 |
-| last180d | 2026-04-24 | 16 | 82 | 5 | 16 | 5 | 95 |
-| 360d | 2025-10-26 | 30 | 147 | 6 | 35 | 7 | 150 |
-| last720d | 2024-10-31 | 58 | 280 | 6 | 107 | 14 | 310 |
+| 30d | 2026-09-22 | 5 | 15 | 4 | 4 | 0 | 18 |
+| last60d | 2026-08-23 | 7 | 33 | 5 | 9 | 1 | 39 |
+| 90d | 2026-07-24 | 10 | 51 | 5 | 12 | 1 | 69 |
+| last180d | 2026-04-25 | 17 | 84 | 5 | 19 | 2 | 98 |
+| 360d | 2025-10-27 | 31 | 147 | 6 | 38 | 4 | 153 |
+| last720d | 2024-11-01 | 59 | 283 | 6 | 110 | 10 | 312 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [dart-sass-1.106.0-android-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-android-arm.tar.gz) | 4.0 MiB | `native/linux/arm` |
-| [dart-sass-1.106.0-android-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-android-arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [dart-sass-1.106.0-android-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-android-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
-| [dart-sass-1.106.0-android-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-android-x64.tar.gz) | 4.3 MiB | `native/unknown` |
-| [dart-sass-1.106.0-linux-arm-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-arm-musl.tar.gz) | 4.0 MiB | `native/linux/arm/musl` |
-| [dart-sass-1.106.0-linux-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-arm.tar.gz) | 3.9 MiB | `native/linux/arm` |
-| [dart-sass-1.106.0-linux-arm64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-arm64-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
-| [dart-sass-1.106.0-linux-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
-| [dart-sass-1.106.0-linux-riscv64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-riscv64-musl.tar.gz) | 4.8 MiB | `native/linux/riscv64/musl` |
-| [dart-sass-1.106.0-linux-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
-| [dart-sass-1.106.0-linux-x64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-x64-musl.tar.gz) | 4.3 MiB | `native/unknown` |
-| [dart-sass-1.106.0-linux-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
-| [dart-sass-1.106.0-macos-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-macos-arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
-| [dart-sass-1.106.0-macos-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-macos-x64.tar.gz) | 4.2 MiB | `native/darwin/x64` |
-| [dart-sass-1.106.0-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
-| [dart-sass-1.106.0-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.106.0/dart-sass-1.106.0-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
+| [dart-sass-1.106.1-android-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-android-arm.tar.gz) | 4.0 MiB | `native/linux/arm` |
+| [dart-sass-1.106.1-android-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-android-arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [dart-sass-1.106.1-android-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-android-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
+| [dart-sass-1.106.1-android-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-android-x64.tar.gz) | 4.3 MiB | `native/unknown` |
+| [dart-sass-1.106.1-linux-arm-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-linux-arm-musl.tar.gz) | 4.0 MiB | `native/linux/arm/musl` |
+| [dart-sass-1.106.1-linux-arm.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-linux-arm.tar.gz) | 3.9 MiB | `native/linux/arm` |
+| [dart-sass-1.106.1-linux-arm64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-linux-arm64-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [dart-sass-1.106.1-linux-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-linux-arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [dart-sass-1.106.1-linux-riscv64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-linux-riscv64-musl.tar.gz) | 4.8 MiB | `native/linux/riscv64/musl` |
+| [dart-sass-1.106.1-linux-riscv64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-linux-riscv64.tar.gz) | 4.7 MiB | `native/linux/riscv64` |
+| [dart-sass-1.106.1-linux-x64-musl.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-linux-x64-musl.tar.gz) | 4.3 MiB | `native/unknown` |
+| [dart-sass-1.106.1-linux-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-linux-x64.tar.gz) | 4.2 MiB | `native/unknown` |
+| [dart-sass-1.106.1-macos-arm64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-macos-arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
+| [dart-sass-1.106.1-macos-x64.tar.gz](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-macos-x64.tar.gz) | 4.2 MiB | `native/darwin/x64` |
+| [dart-sass-1.106.1-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
+| [dart-sass-1.106.1-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.106.1/dart-sass-1.106.1-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -95,4 +95,4 @@ dart-sass 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:49:42Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:59:06Z._
