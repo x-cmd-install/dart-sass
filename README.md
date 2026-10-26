@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 4 | 13 | 5 | 4 | 2 | 14 |
-| last60d | 2026-08-26 | 7 | 31 | 6 | 9 | 3 | 36 |
-| 90d | 2026-07-27 | 9 | 49 | 6 | 12 | 3 | 59 |
-| last180d | 2026-04-28 | 17 | 83 | 6 | 19 | 4 | 97 |
-| 360d | 2025-10-30 | 31 | 146 | 7 | 37 | 6 | 146 |
-| last720d | 2024-11-04 | 58 | 282 | 7 | 110 | 12 | 311 |
+| 30d | 2026-09-26 | 4 | 13 | 5 | 4 | 2 | 14 |
+| last60d | 2026-08-27 | 7 | 31 | 6 | 9 | 3 | 36 |
+| 90d | 2026-07-28 | 9 | 45 | 6 | 12 | 3 | 59 |
+| last180d | 2026-04-29 | 17 | 83 | 6 | 19 | 4 | 97 |
+| 360d | 2025-10-31 | 31 | 146 | 7 | 37 | 6 | 146 |
+| last720d | 2024-11-05 | 58 | 281 | 7 | 109 | 12 | 310 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **43** distros on [repology.org](https://repology.org/project/dart-sass). **7** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
+Reported by **43** distros on [repology.org](https://repology.org/project/dart-sass). **8** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,7 +97,7 @@ Reported by **43** distros on [repology.org](https://repology.org/project/dart-s
 | Arch | `1.106.1` | ✅ latest |
 | Homebrew | `1.106.1` | ✅ latest |
 | Nix unstable | `1.105.1` | ⚠️ outdated |
-| Alpine edge | `1.102.0` | ⚠️ outdated |
+| Alpine edge | `1.97.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:44:55Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:53:12Z._
