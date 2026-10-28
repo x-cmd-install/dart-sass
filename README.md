@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,235 · **Forks**: 382 · **Open issues**: 1,245 · **Contributors**: 71
+- **Stars**: 4,237 · **Forks**: 382 · **Open issues**: 1,245 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 4 | 14 | 7 | 5 | 1 | 15 |
-| last60d | 2026-08-28 | 7 | 32 | 8 | 10 | 2 | 37 |
-| 90d | 2026-07-29 | 9 | 45 | 8 | 12 | 2 | 60 |
-| last180d | 2026-04-30 | 17 | 84 | 8 | 20 | 3 | 98 |
-| 360d | 2025-11-01 | 30 | 147 | 9 | 38 | 5 | 147 |
-| last720d | 2024-11-06 | 58 | 282 | 9 | 110 | 11 | 311 |
+| 30d | 2026-09-28 | 4 | 13 | 7 | 5 | 1 | 15 |
+| last60d | 2026-08-29 | 7 | 32 | 8 | 10 | 2 | 37 |
+| 90d | 2026-07-30 | 9 | 45 | 8 | 12 | 2 | 60 |
+| last180d | 2026-05-01 | 17 | 84 | 8 | 20 | 3 | 98 |
+| 360d | 2025-11-02 | 30 | 147 | 9 | 38 | 5 | 147 |
+| last720d | 2024-11-07 | 58 | 282 | 9 | 110 | 10 | 311 |
 
 ## Release assets
 
@@ -88,16 +88,16 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **43** distros on [repology.org](https://repology.org/project/dart-sass). **8** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **43** distros on [repology.org](https://repology.org/project/dart-sass). **10** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `1.105.0` | ⚠️ outdated |
+| Debian unstable | `1.106.1` | ✅ latest |
 | Debian 14 | `1.105.0` | ⚠️ outdated |
 | Arch | `1.106.1` | ✅ latest |
 | Homebrew | `1.106.1` | ✅ latest |
 | Nix unstable | `1.105.1` | ⚠️ outdated |
-| Alpine edge | `1.97.3` | ⚠️ outdated |
+| Alpine edge | `1.102.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:17:11Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:52:22Z._
