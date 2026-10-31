@@ -1,17 +1,3 @@
-- repo: kali_rolling
-  subrepo: main
-  srcname: dart-sass
-  binnames:
-    - dart-sass
-    - node-sass
-  visiblename: dart-sass
-  version: 1.105.0
-  origversion: 1.105.0-5
-  status: outdated
-  maintainers:
-    - emfox@debian.org
-  categories:
-    - web
 - repo: alpine_3_22
   subrepo: community
   srcname: dart-sass-js
@@ -25,13 +11,6 @@
     - knuxify@gmail.com
   licenses:
     - MIT
-- repo: homebrew
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.107.0
-  origversion: null
-  status: newest
-  summary: Reference implementation of Sass, written in Dart
 - repo: alpine_3_23
   subrepo: community
   srcname: dart-sass-js
@@ -194,6 +173,27 @@
     - emfox@debian.org
   categories:
     - web
+- repo: homebrew
+  srcname: dart-sass
+  visiblename: dart-sass
+  version: 1.107.1
+  origversion: null
+  status: newest
+  summary: Reference implementation of Sass, written in Dart
+- repo: kali_rolling
+  subrepo: main
+  srcname: dart-sass
+  binnames:
+    - dart-sass
+    - node-sass
+  visiblename: dart-sass
+  version: 1.105.0
+  origversion: 1.105.0-5
+  status: outdated
+  maintainers:
+    - emfox@debian.org
+  categories:
+    - web
 - repo: macports
   srcname: www/dart-sass
   binname: dart-sass
@@ -299,7 +299,7 @@
 - repo: nix_unstable
   srcname: dart-sass
   visiblename: dart-sass
-  version: 1.105.1
+  version: 1.106.1
   origversion: null
   status: outdated
   summary: Reference implementation of Sass, written in Dart
@@ -384,7 +384,7 @@
   subrepo: main
   binname: sass
   visiblename: sass
-  version: 1.107.0
+  version: 1.107.1
   origversion: null
   status: newest
   licenses:
@@ -501,7 +501,7 @@
   visiblename: sass
   version: 1.107.0
   origversion: 1.107.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The reference implementation of Sass, written in Dart
   licenses:
     - MIT
@@ -513,7 +513,7 @@
   visiblename: sass
   version: 1.107.0
   origversion: 1.107.0-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The reference implementation of Sass, written in Dart
   licenses:
     - MIT
