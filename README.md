@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,238 · **Forks**: 382 · **Open issues**: 1,245 · **Contributors**: 71
+- **Stars**: 4,237 · **Forks**: 382 · **Open issues**: 1,245 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 5 | 16 | 3 | 5 | 1 | 22 |
-| last60d | 2026-09-01 | 9 | 33 | 4 | 9 | 2 | 44 |
-| 90d | 2026-08-02 | 11 | 50 | 4 | 11 | 2 | 67 |
-| last180d | 2026-05-04 | 19 | 88 | 4 | 20 | 3 | 105 |
-| 360d | 2025-11-05 | 32 | 146 | 5 | 37 | 5 | 154 |
-| last720d | 2024-11-10 | 60 | 287 | 5 | 110 | 10 | 319 |
+| 30d | 2026-10-02 | 5 | 16 | 3 | 5 | 1 | 20 |
+| last60d | 2026-09-02 | 9 | 32 | 4 | 6 | 2 | 34 |
+| 90d | 2026-08-03 | 11 | 50 | 4 | 11 | 2 | 67 |
+| last180d | 2026-05-05 | 19 | 88 | 4 | 20 | 3 | 102 |
+| 360d | 2025-11-06 | 32 | 146 | 5 | 36 | 5 | 149 |
+| last720d | 2024-11-11 | 60 | 285 | 5 | 110 | 10 | 319 |
 
 ## Release assets
 
@@ -93,7 +93,7 @@ Reported by **43** distros on [repology.org](https://repology.org/project/dart-s
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `1.106.1` | ⚠️ outdated |
-| Debian 14 | `1.105.0` | ⚠️ outdated |
+| Debian 14 | `1.106.1` | ⚠️ outdated |
 | Arch | `1.106.1` | ⚠️ outdated |
 | Homebrew | `1.107.1` | ✅ latest |
 | Nix unstable | `1.106.1` | ⚠️ outdated |
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:49:09Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:13:43Z._
