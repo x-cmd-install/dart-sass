@@ -1,3 +1,15 @@
+- repo: aosc
+  srcname: app-devel/dart-sass
+  binname: dart-sass
+  visiblename: dart-sass
+  version: 1.99.0
+  origversion: null
+  status: outdated
+  summary: Reference implementation of Sass
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - devel
 - repo: alpine_3_22
   subrepo: community
   srcname: dart-sass-js
@@ -79,18 +91,6 @@
   categories:
     - Text tools
 - repo: aosc
-  srcname: app-devel/dart-sass
-  binname: dart-sass
-  visiblename: dart-sass
-  version: 1.99.0
-  origversion: null
-  status: outdated
-  summary: Reference implementation of Sass
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - devel
-- repo: aosc
   srcname: app-devel/dart-sass-js
   binname: dart-sass-js
   visiblename: dart-sass-js
@@ -138,8 +138,8 @@
     - dart-sass
     - node-sass
   visiblename: dart-sass
-  version: 1.105.0
-  origversion: 1.105.0-5
+  version: 1.106.1
+  origversion: 1.106.1-1
   status: outdated
   maintainers:
     - emfox@debian.org
@@ -373,8 +373,8 @@
     - dart-sass
     - node-sass
   visiblename: dart-sass
-  version: 1.105.0
-  origversion: 1.105.0-5
+  version: 1.106.1
+  origversion: 1.106.1-1
   status: outdated
   maintainers:
     - emfox@debian.org
