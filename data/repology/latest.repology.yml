@@ -1,12 +1,26 @@
-- repo: kali_rolling
-  subrepo: main
+- repo: debian_unstable
+  subrepo: sid/main
   srcname: dart-sass
   binnames:
     - dart-sass
     - node-sass
   visiblename: dart-sass
-  version: 1.105.0
-  origversion: 1.105.0-5
+  version: 1.106.1
+  origversion: 1.106.1-1
+  status: outdated
+  maintainers:
+    - emfox@debian.org
+  categories:
+    - web
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: dart-sass
+  binnames:
+    - dart-sass
+    - node-sass
+  visiblename: dart-sass
+  version: 1.106.1
+  origversion: 1.106.1-1
   status: outdated
   maintainers:
     - emfox@debian.org
@@ -25,13 +39,6 @@
     - knuxify@gmail.com
   licenses:
     - MIT
-- repo: homebrew
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.107.1
-  origversion: null
-  status: newest
-  summary: Reference implementation of Sass, written in Dart
 - repo: alpine_3_23
   subrepo: community
   srcname: dart-sass-js
@@ -128,9 +135,9 @@
   srcname: dart-sass
   binname: dart-sass
   visiblename: dart-sass
-  version: 1.106.1
-  origversion: 1.106.1-1
-  status: outdated
+  version: 1.107.1
+  origversion: 1.107.1-1
+  status: newest
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -166,29 +173,22 @@
     - emfox@debian.org
   categories:
     - web
-- repo: debian_unstable
-  subrepo: sid/main
+- repo: homebrew
+  srcname: dart-sass
+  visiblename: dart-sass
+  version: 1.107.1
+  origversion: null
+  status: newest
+  summary: Reference implementation of Sass, written in Dart
+- repo: kali_rolling
+  subrepo: main
   srcname: dart-sass
   binnames:
     - dart-sass
     - node-sass
   visiblename: dart-sass
-  version: 1.106.1
-  origversion: 1.106.1-1
-  status: outdated
-  maintainers:
-    - emfox@debian.org
-  categories:
-    - web
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: dart-sass
-  binnames:
-    - dart-sass
-    - node-sass
-  visiblename: dart-sass
-  version: 1.106.1
-  origversion: 1.106.1-1
+  version: 1.105.0
+  origversion: 1.105.0-5
   status: outdated
   maintainers:
     - emfox@debian.org
@@ -360,9 +360,9 @@
   srcname: dart-sass
   binname: dart-sass
   visiblename: dart-sass
-  version: 1.106.1
-  origversion: 1.106.1-1
-  status: outdated
+  version: 1.107.1
+  origversion: 1.107.1-1
+  status: newest
   summary: Sass makes CSS fun again
   licenses:
     - MIT
