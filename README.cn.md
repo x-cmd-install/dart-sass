@@ -26,7 +26,7 @@ x install dart-sass
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.3 / 10**
+总评分: **6.7 / 10**
 
 评分最低的几项:
 
@@ -48,22 +48,22 @@ x install dart-sass
 
 ## 流行度
 
-- **Star**: 4,236 · **Fork**: 382 · **开放 issue**: 1,246 · **贡献者**: 70
+- **Star**: 4,238 · **Fork**: 382 · **开放 issue**: 1,246 · **贡献者**: 70
 
 ## 累计统计
 
-- **发布数**: 334 · **已合并 PR**: 1471 · **开放 PR**: 11 · **已关闭 issue**: 1184 · **开放 issue**: 62 · **提交数**: 2896
+- **发布数**: 334 · **已合并 PR**: 1471 · **开放 PR**: 12 · **已关闭 issue**: 1184 · **开放 issue**: 62 · **提交数**: 2896
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 5 | 15 | 5 | 5 | 2 | 20 |
-| last60d | 2026-09-05 | 8 | 30 | 6 | 6 | 3 | 34 |
-| 90d | 2026-08-06 | 11 | 49 | 6 | 11 | 3 | 67 |
-| last180d | 2026-05-08 | 19 | 87 | 6 | 19 | 4 | 102 |
-| 360d | 2025-11-09 | 32 | 146 | 7 | 36 | 6 | 149 |
-| last720d | 2024-11-14 | 59 | 282 | 7 | 109 | 11 | 316 |
+| 30d | 2026-10-06 | 5 | 15 | 6 | 5 | 2 | 20 |
+| last60d | 2026-09-06 | 8 | 30 | 7 | 6 | 3 | 34 |
+| 90d | 2026-08-07 | 11 | 49 | 7 | 11 | 3 | 67 |
+| last180d | 2026-05-09 | 19 | 87 | 7 | 19 | 4 | 102 |
+| 360d | 2025-11-10 | 32 | 144 | 8 | 36 | 6 | 149 |
+| last720d | 2024-11-15 | 59 | 281 | 8 | 109 | 11 | 315 |
 
 ## Release 资产
 
@@ -86,19 +86,6 @@ x install dart-sass
 | [dart-sass-1.107.1-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.107.1/dart-sass-1.107.1-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
 | [dart-sass-1.107.1-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.107.1/dart-sass-1.107.1-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/dart-sass) 上共有 **43** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**35** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.106.1` | ⚠️ outdated |
-| Debian 14 | `1.106.1` | ⚠️ outdated |
-| Arch | `1.107.1` | ✅ latest |
-| Homebrew | `1.107.1` | ✅ latest |
-| Nix unstable | `1.106.1` | ⚠️ outdated |
-| Alpine edge | `1.97.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 dart-sass 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dart-sass` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -108,4 +95,4 @@ dart-sass 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:39:27Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:57:54Z._
