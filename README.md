@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,237 · **Forks**: 386 · **Open issues**: 1,246 · **Contributors**: 70
+- **Stars**: 4,236 · **Forks**: 384 · **Open issues**: 1,246 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 336 · **Merged PRs**: 1476 · **Open PRs**: 10 · **Closed issues**: 1184 · **Open issues**: 62 · **Commits**: 2901
+- **Releases**: 336 · **Merged PRs**: 1476 · **Open PRs**: 12 · **Closed issues**: 1184 · **Open issues**: 62 · **Commits**: 2901
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 7 | 20 | 4 | 5 | 2 | 25 |
-| last60d | 2026-09-09 | 10 | 31 | 5 | 6 | 3 | 39 |
-| 90d | 2026-08-10 | 13 | 54 | 5 | 11 | 3 | 72 |
-| last180d | 2026-05-12 | 21 | 92 | 5 | 19 | 4 | 107 |
-| 360d | 2025-11-13 | 33 | 148 | 6 | 35 | 6 | 154 |
-| last720d | 2024-11-18 | 60 | 285 | 6 | 109 | 11 | 318 |
+| 30d | 2026-10-11 | 7 | 20 | 6 | 5 | 2 | 24 |
+| last60d | 2026-09-11 | 10 | 30 | 7 | 5 | 3 | 34 |
+| 90d | 2026-08-12 | 13 | 48 | 7 | 11 | 3 | 63 |
+| last180d | 2026-05-14 | 21 | 92 | 7 | 19 | 4 | 107 |
+| 360d | 2025-11-15 | 33 | 148 | 8 | 35 | 6 | 150 |
+| last720d | 2024-11-20 | 60 | 284 | 8 | 109 | 11 | 317 |
 
 ## Release assets
 
@@ -88,11 +88,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **43** distros on [repology.org](https://repology.org/project/dart-sass). **2** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **44** distros on [repology.org](https://repology.org/project/dart-sass). **4** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `1.107.1` | ⚠️ outdated |
+| Debian unstable | `1.108.1` | ✅ latest |
 | Debian 14 | `1.106.1` | ⚠️ outdated |
 | Arch | `1.107.1` | ⚠️ outdated |
 | Homebrew | `1.108.1` | ✅ latest |
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:16:32Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:50:03Z._
