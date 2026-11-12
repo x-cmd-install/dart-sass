@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 8 | 21 | 5 | 4 | 2 | 25 |
-| last60d | 2026-09-12 | 11 | 31 | 6 | 5 | 3 | 35 |
-| 90d | 2026-08-13 | 14 | 49 | 6 | 11 | 3 | 64 |
-| last180d | 2026-05-15 | 22 | 93 | 6 | 19 | 4 | 108 |
-| 360d | 2025-11-16 | 34 | 149 | 7 | 35 | 6 | 151 |
-| last720d | 2024-11-21 | 61 | 285 | 7 | 109 | 11 | 317 |
+| 30d | 2026-10-13 | 8 | 21 | 5 | 4 | 2 | 25 |
+| last60d | 2026-09-13 | 10 | 31 | 6 | 5 | 3 | 35 |
+| 90d | 2026-08-14 | 14 | 48 | 6 | 11 | 3 | 64 |
+| last180d | 2026-05-16 | 22 | 93 | 6 | 19 | 4 | 108 |
+| 360d | 2025-11-17 | 34 | 148 | 7 | 35 | 6 | 151 |
+| last720d | 2024-11-22 | 61 | 285 | 7 | 108 | 11 | 317 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:33:00Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:51:02Z._
