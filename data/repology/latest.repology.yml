@@ -1,54 +1,31 @@
-- repo: chocolatey
-  binname: sass
-  visiblename: Sass
-  version: 1.107.1
-  origversion: null
-  status: outdated
-  summary: Sass makes CSS fun again.
-- repo: terra_39
-  srcname: sass
-  binname: sass
-  visiblename: sass
-  version: 1.69.2
-  origversion: 1.69.2-1.fc39
-  status: legacy
-  summary: The reference implementation of Sass, written in Dart
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: slackbuilds
-  srcname: development/dart-sass
-  visiblename: development/dart-sass
-  version: 1.97.3
-  origversion: null
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: dart-sass
+  binnames:
+    - dart-sass
+    - node-sass
+  visiblename: dart-sass
+  version: 1.108.1
+  origversion: 1.108.1-1
   status: outdated
   maintainers:
-    - fsleg@t-rg.ws
+    - emfox@debian.org
   categories:
-    - development
-- repo: arch
-  subrepo: extra
+    - web
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: dart-sass
-  binname: dart-sass
+  binnames:
+    - dart-sass
+    - node-sass
   visiblename: dart-sass
-  version: 1.108.2
-  origversion: 1.108.2-1
-  status: newest
-  summary: Sass makes CSS fun again
-  licenses:
-    - MIT
-- repo: artix
-  subrepo: world
-  srcname: dart-sass
-  binname: dart-sass
-  visiblename: dart-sass
-  version: 1.107.1
-  origversion: 1.107.1-1
+  version: 1.108.1
+  origversion: 1.108.1-1
   status: outdated
-  summary: Sass makes CSS fun again
-  licenses:
-    - MIT
+  maintainers:
+    - emfox@debian.org
+  categories:
+    - web
 - repo: alpine_3_22
   subrepo: community
   srcname: dart-sass-js
@@ -153,36 +130,37 @@
     - fallback-mnt-aosc@repology
   categories:
     - devel
+- repo: arch
+  subrepo: extra
+  srcname: dart-sass
+  binname: dart-sass
+  visiblename: dart-sass
+  version: 1.108.2
+  origversion: 1.108.2-1
+  status: newest
+  summary: Sass makes CSS fun again
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: world
+  srcname: dart-sass
+  binname: dart-sass
+  visiblename: dart-sass
+  version: 1.107.1
+  origversion: 1.107.1-1
+  status: outdated
+  summary: Sass makes CSS fun again
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: sass
+  visiblename: Sass
+  version: 1.107.1
+  origversion: null
+  status: outdated
+  summary: Sass makes CSS fun again.
 - repo: debian_14
   subrepo: forky/main
-  srcname: dart-sass
-  binnames:
-    - dart-sass
-    - node-sass
-  visiblename: dart-sass
-  version: 1.108.1
-  origversion: 1.108.1-1
-  status: outdated
-  maintainers:
-    - emfox@debian.org
-  categories:
-    - web
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: dart-sass
-  binnames:
-    - dart-sass
-    - node-sass
-  visiblename: dart-sass
-  version: 1.108.1
-  origversion: 1.108.1-1
-  status: outdated
-  maintainers:
-    - emfox@debian.org
-  categories:
-    - web
-- repo: devuan_unstable
-  subrepo: unstable/main
   srcname: dart-sass
   binnames:
     - dart-sass
@@ -257,9 +235,9 @@
   srcname: dart-sass
   binname: dart-sass
   visiblename: dart-sass
-  version: 1.107.1
-  origversion: 1.107.1-1
-  status: outdated
+  version: 1.108.2
+  origversion: 1.108.2-1
+  status: newest
   summary: Sass makes CSS fun again
   licenses:
     - MIT
@@ -411,6 +389,28 @@
   status: newest
   licenses:
     - MIT
+- repo: slackbuilds
+  srcname: development/dart-sass
+  visiblename: development/dart-sass
+  version: 1.97.3
+  origversion: null
+  status: outdated
+  maintainers:
+    - fsleg@t-rg.ws
+  categories:
+    - development
+- repo: terra_39
+  srcname: sass
+  binname: sass
+  visiblename: sass
+  version: 1.69.2
+  origversion: 1.69.2-1.fc39
+  status: legacy
+  summary: The reference implementation of Sass, written in Dart
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: terra_39
   srcname: sass
   binname: sass
