@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,237 · **Forks**: 386 · **Open issues**: 1,246 · **Contributors**: 70
+- **Stars**: 4,237 · **Forks**: 389 · **Open issues**: 1,246 · **Contributors**: 70
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 8 | 18 | 5 | 4 | 2 | 25 |
-| last60d | 2026-09-15 | 10 | 29 | 5 | 5 | 3 | 35 |
-| 90d | 2026-08-16 | 14 | 48 | 6 | 11 | 3 | 64 |
-| last180d | 2026-05-18 | 22 | 93 | 6 | 19 | 4 | 108 |
-| 360d | 2025-11-19 | 33 | 146 | 7 | 35 | 6 | 151 |
-| last720d | 2024-11-24 | 61 | 285 | 7 | 108 | 11 | 316 |
+| 30d | 2026-10-16 | 8 | 18 | 5 | 4 | 2 | 14 |
+| last60d | 2026-09-16 | 10 | 29 | 5 | 5 | 3 | 32 |
+| 90d | 2026-08-17 | 14 | 48 | 6 | 11 | 3 | 53 |
+| last180d | 2026-05-19 | 22 | 93 | 6 | 19 | 4 | 108 |
+| 360d | 2025-11-20 | 32 | 146 | 7 | 35 | 6 | 147 |
+| last720d | 2024-11-25 | 61 | 283 | 7 | 108 | 11 | 316 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **44** distros on [repology.org](https://repology.org/project/dart-sass). **5** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+Reported by **44** distros on [repology.org](https://repology.org/project/dart-sass). **6** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:29:29Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:08:42Z._
