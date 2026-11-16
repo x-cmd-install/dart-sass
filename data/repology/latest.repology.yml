@@ -1,31 +1,25 @@
-- repo: debian_unstable
-  subrepo: sid/main
+- repo: nix_stable_25_05
   srcname: dart-sass
-  binnames:
-    - dart-sass
-    - node-sass
   visiblename: dart-sass
-  version: 1.108.1
-  origversion: 1.108.1-1
+  version: 1.87.0
+  origversion: null
   status: outdated
+  summary: Reference implementation of Sass, written in Dart
   maintainers:
-    - emfox@debian.org
-  categories:
-    - web
-- repo: devuan_unstable
-  subrepo: unstable/main
+    - lelgenio@lelgenio.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
   srcname: dart-sass
-  binnames:
-    - dart-sass
-    - node-sass
   visiblename: dart-sass
-  version: 1.108.1
-  origversion: 1.108.1-1
+  version: 1.94.2
+  origversion: null
   status: outdated
+  summary: Reference implementation of Sass, written in Dart
   maintainers:
-    - emfox@debian.org
-  categories:
-    - web
+    - lelgenio@lelgenio.com
+  licenses:
+    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: dart-sass-js
@@ -155,12 +149,40 @@
 - repo: chocolatey
   binname: sass
   visiblename: Sass
-  version: 1.107.1
+  version: 1.108.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Sass makes CSS fun again.
 - repo: debian_14
   subrepo: forky/main
+  srcname: dart-sass
+  binnames:
+    - dart-sass
+    - node-sass
+  visiblename: dart-sass
+  version: 1.108.1
+  origversion: 1.108.1-1
+  status: outdated
+  maintainers:
+    - emfox@debian.org
+  categories:
+    - web
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: dart-sass
+  binnames:
+    - dart-sass
+    - node-sass
+  visiblename: dart-sass
+  version: 1.108.1
+  origversion: 1.108.1-1
+  status: outdated
+  maintainers:
+    - emfox@debian.org
+  categories:
+    - web
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: dart-sass
   binnames:
     - dart-sass
@@ -256,28 +278,6 @@
   srcname: dart-sass
   visiblename: dart-sass
   version: 1.80.5
-  origversion: null
-  status: outdated
-  summary: Reference implementation of Sass, written in Dart
-  maintainers:
-    - lelgenio@lelgenio.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.87.0
-  origversion: null
-  status: outdated
-  summary: Reference implementation of Sass, written in Dart
-  maintainers:
-    - lelgenio@lelgenio.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: dart-sass
-  visiblename: dart-sass
-  version: 1.94.2
   origversion: null
   status: outdated
   summary: Reference implementation of Sass, written in Dart
