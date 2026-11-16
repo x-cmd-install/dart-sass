@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 8 | 18 | 5 | 4 | 2 | 14 |
-| last60d | 2026-09-16 | 10 | 29 | 5 | 5 | 3 | 32 |
-| 90d | 2026-08-17 | 14 | 48 | 6 | 11 | 3 | 53 |
-| last180d | 2026-05-19 | 22 | 93 | 6 | 19 | 4 | 108 |
-| 360d | 2025-11-20 | 32 | 146 | 7 | 35 | 6 | 147 |
-| last720d | 2024-11-25 | 61 | 283 | 7 | 108 | 11 | 316 |
+| 30d | 2026-10-17 | 7 | 17 | 5 | 4 | 2 | 14 |
+| last60d | 2026-09-17 | 10 | 29 | 5 | 5 | 2 | 32 |
+| 90d | 2026-08-18 | 14 | 47 | 6 | 11 | 3 | 53 |
+| last180d | 2026-05-20 | 22 | 93 | 6 | 19 | 4 | 108 |
+| 360d | 2025-11-21 | 32 | 146 | 7 | 35 | 6 | 147 |
+| last720d | 2024-11-26 | 61 | 282 | 7 | 107 | 11 | 314 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **44** distros on [repology.org](https://repology.org/project/dart-sass). **6** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
+Reported by **44** distros on [repology.org](https://repology.org/project/dart-sass). **7** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:08:42Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:32:29Z._
