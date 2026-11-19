@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,238 · **Forks**: 395 · **Open issues**: 1,246 · **Contributors**: 70
+- **Stars**: 4,238 · **Forks**: 398 · **Open issues**: 1,246 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 337 · **Merged PRs**: 1477 · **Open PRs**: 16 · **Closed issues**: 1184 · **Open issues**: 62 · **Commits**: 2902
+- **Releases**: 337 · **Merged PRs**: 1479 · **Open PRs**: 17 · **Closed issues**: 1184 · **Open issues**: 62 · **Commits**: 2902
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 7 | 17 | 10 | 4 | 2 | 14 |
-| last60d | 2026-09-18 | 10 | 29 | 10 | 5 | 2 | 32 |
-| 90d | 2026-08-19 | 14 | 46 | 11 | 11 | 3 | 53 |
-| last180d | 2026-05-21 | 22 | 93 | 11 | 19 | 4 | 108 |
-| 360d | 2025-11-22 | 32 | 146 | 12 | 35 | 6 | 147 |
-| last720d | 2024-11-27 | 61 | 281 | 12 | 107 | 11 | 314 |
+| 30d | 2026-10-20 | 7 | 17 | 11 | 4 | 2 | 14 |
+| last60d | 2026-09-20 | 10 | 31 | 11 | 5 | 2 | 32 |
+| 90d | 2026-08-21 | 12 | 47 | 12 | 11 | 3 | 53 |
+| last180d | 2026-05-23 | 21 | 93 | 12 | 19 | 4 | 108 |
+| 360d | 2025-11-24 | 32 | 146 | 13 | 33 | 6 | 147 |
+| last720d | 2024-11-29 | 61 | 282 | 13 | 105 | 11 | 314 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **45** distros on [repology.org](https://repology.org/project/dart-sass). **8** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
+Reported by **44** distros on [repology.org](https://repology.org/project/dart-sass). **8** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,7 +97,7 @@ Reported by **45** distros on [repology.org](https://repology.org/project/dart-s
 | Arch | `1.108.2` | ✅ latest |
 | Homebrew | `1.108.2` | ✅ latest |
 | Nix unstable | `1.107.1` | ⚠️ outdated |
-| Alpine edge | `1.102.0` | ⚠️ outdated |
+| Alpine edge | `1.97.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:40:31Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:21:26Z._
