@@ -45,19 +45,6 @@
   licenses:
     - MIT
 - repo: alpine_edge
-  subrepo: community
-  srcname: dart-sass-js
-  binname: dart-sass-js
-  visiblename: dart-sass-js
-  version: 1.102.0
-  origversion: 1.102.0-r1
-  status: outdated
-  summary: The reference implementation of Sass, written in Dart (JS/Node version)
-  maintainers:
-    - alpine@uart.sh
-  licenses:
-    - MIT
-- repo: alpine_edge
   subrepo: testing
   srcname: dart-sass
   binname: dart-sass
@@ -68,6 +55,19 @@
   summary: The primary implementation of Sass
   maintainers:
     - lauren@selfisekai.rocks
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: dart-sass-js
+  binname: dart-sass-js
+  visiblename: dart-sass-js
+  version: 1.102.0
+  origversion: 1.102.0-r1
+  status: outdated
+  summary: The reference implementation of Sass, written in Dart (JS/Node version)
+  maintainers:
+    - alpine@uart.sh
   licenses:
     - MIT
 - repo: altsisyphus
@@ -133,20 +133,6 @@
     - MIT
 - repo: debian_14
   subrepo: forky/main
-  srcname: dart-sass
-  binnames:
-    - dart-sass
-    - node-sass
-  visiblename: dart-sass
-  version: 1.108.1
-  origversion: 1.108.1-1
-  status: outdated
-  maintainers:
-    - emfox@debian.org
-  categories:
-    - web
-- repo: debian_unstable
-  subrepo: sid/main
   srcname: dart-sass
   binnames:
     - dart-sass
