@@ -1,10 +1,3 @@
-- repo: chocolatey
-  binname: sass
-  visiblename: Sass
-  version: 1.108.2
-  origversion: null
-  status: newest
-  summary: Sass makes CSS fun again.
 - repo: alpine_3_22
   subrepo: community
   srcname: dart-sass-js
@@ -75,9 +68,9 @@
   binnames:
     - dart-sass
   visiblename: dart-sass
-  version: 1.101.0
-  origversion: 1.101.0-alt1
-  status: outdated
+  version: 1.108.2
+  origversion: 1.108.2-alt1
+  status: newest
   summary: The reference implementation of Sass, written in Dart.
   maintainers:
     - aris@altlinux.org
@@ -125,12 +118,19 @@
   srcname: dart-sass
   binname: dart-sass
   visiblename: dart-sass
-  version: 1.107.1
-  origversion: 1.107.1-1
-  status: outdated
+  version: 1.108.2
+  origversion: 1.108.2-1
+  status: newest
   summary: Sass makes CSS fun again
   licenses:
     - MIT
+- repo: chocolatey
+  binname: sass
+  visiblename: Sass
+  version: 1.108.2
+  origversion: null
+  status: newest
+  summary: Sass makes CSS fun again.
 - repo: debian_14
   subrepo: forky/main
   srcname: dart-sass
