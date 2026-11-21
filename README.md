@@ -14,11 +14,11 @@ x install dart-sass
 
 ## Code insight
 
-Total: **94,256** lines of code across **643** files in the top 5 languages.
+Total: **94,284** lines of code across **643** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Dart | 60,186 | 13,527 | 9,846 | 447 |
+| Dart | 60,214 | 13,528 | 9,849 | 447 |
 | TypeScript | 33,708 | 4,097 | 6,597 | 171 |
 | Json | 147 | 0 | 0 | 6 |
 | Yaml | 125 | 10 | 14 | 10 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.108.2` (2026-11-11)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-20
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 337 · **Merged PRs**: 1479 · **Open PRs**: 18 · **Closed issues**: 1184 · **Open issues**: 62 · **Commits**: 2902
+- **Releases**: 337 · **Merged PRs**: 1481 · **Open PRs**: 17 · **Closed issues**: 1184 · **Open issues**: 62 · **Commits**: 2903
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 7 | 14 | 12 | 1 | 2 | 14 |
-| last60d | 2026-09-21 | 10 | 31 | 12 | 5 | 2 | 32 |
-| 90d | 2026-08-22 | 12 | 47 | 13 | 11 | 3 | 53 |
-| last180d | 2026-05-24 | 21 | 93 | 13 | 19 | 4 | 108 |
-| 360d | 2025-11-25 | 32 | 146 | 14 | 33 | 6 | 147 |
-| last720d | 2024-11-30 | 61 | 282 | 14 | 105 | 11 | 314 |
+| 30d | 2026-10-22 | 5 | 16 | 11 | 1 | 1 | 15 |
+| last60d | 2026-09-22 | 10 | 31 | 11 | 5 | 2 | 33 |
+| 90d | 2026-08-23 | 12 | 49 | 12 | 10 | 3 | 54 |
+| last180d | 2026-05-25 | 21 | 94 | 12 | 18 | 3 | 109 |
+| 360d | 2025-11-26 | 32 | 148 | 13 | 33 | 6 | 148 |
+| last720d | 2024-12-01 | 61 | 284 | 13 | 104 | 11 | 315 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:30:55Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:29:59Z._
