@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: dart-sass
+  binname: dart-sass
+  visiblename: dart-sass
+  version: 1.108.2
+  origversion: 1.108.2-1
+  status: newest
+  summary: Sass makes CSS fun again
+  licenses:
+    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: dart-sass-js
@@ -135,11 +146,12 @@
   subrepo: forky/main
   srcname: dart-sass
   binnames:
+    - sass
     - dart-sass
     - node-sass
   visiblename: dart-sass
   version: 1.108.1
-  origversion: 1.108.1-1
+  origversion: 1.108.1-2
   status: outdated
   maintainers:
     - emfox@debian.org
@@ -222,17 +234,6 @@
   licenses:
     - MIT
 - repo: manjaro_testing
-  subrepo: extra
-  srcname: dart-sass
-  binname: dart-sass
-  visiblename: dart-sass
-  version: 1.108.2
-  origversion: 1.108.2-1
-  status: newest
-  summary: Sass makes CSS fun again
-  licenses:
-    - MIT
-- repo: manjaro_unstable
   subrepo: extra
   srcname: dart-sass
   binname: dart-sass
@@ -372,11 +373,12 @@
   subrepo: main
   srcname: dart-sass
   binnames:
+    - sass
     - dart-sass
     - node-sass
   visiblename: dart-sass
   version: 1.108.1
-  origversion: 1.108.1-1
+  origversion: 1.108.1-2
   status: outdated
   maintainers:
     - emfox@debian.org
