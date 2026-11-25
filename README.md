@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 15 | 12 | 0 | 1 | 9 |
-| last60d | 2026-09-25 | 9 | 29 | 12 | 5 | 2 | 29 |
-| 90d | 2026-08-26 | 12 | 47 | 13 | 10 | 3 | 54 |
-| last180d | 2026-05-28 | 21 | 94 | 13 | 18 | 3 | 109 |
-| 360d | 2025-11-29 | 32 | 148 | 14 | 32 | 6 | 144 |
-| last720d | 2024-12-04 | 59 | 281 | 14 | 104 | 11 | 310 |
+| 30d | 2026-10-26 | 5 | 15 | 12 | 0 | 1 | 9 |
+| last60d | 2026-09-26 | 9 | 29 | 12 | 5 | 2 | 29 |
+| 90d | 2026-08-27 | 12 | 47 | 13 | 10 | 3 | 54 |
+| last180d | 2026-05-29 | 21 | 93 | 13 | 18 | 3 | 109 |
+| 360d | 2025-11-30 | 32 | 148 | 14 | 32 | 6 | 144 |
+| last720d | 2024-12-05 | 59 | 281 | 14 | 104 | 11 | 308 |
 
 ## Release assets
 
@@ -86,19 +86,6 @@ Lowest-scoring checks:
 | [dart-sass-1.108.2-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.108.2/dart-sass-1.108.2-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
 | [dart-sass-1.108.2-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.108.2/dart-sass-1.108.2-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **44** distros on [repology.org](https://repology.org/project/dart-sass). **12** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.108.1` | ⚠️ outdated |
-| Debian 14 | `1.108.1` | ⚠️ outdated |
-| Arch | `1.108.2` | ✅ latest |
-| Homebrew | `1.108.2` | ✅ latest |
-| Nix unstable | `1.108.2` | ✅ latest |
-| Alpine edge | `1.97.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dart-sass` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -108,4 +95,4 @@ Install metadata for dart-sass lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:52:06Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:26:00Z._

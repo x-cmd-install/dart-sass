@@ -58,12 +58,12 @@ x install dart-sass
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 15 | 12 | 0 | 1 | 9 |
-| last60d | 2026-09-25 | 9 | 29 | 12 | 5 | 2 | 29 |
-| 90d | 2026-08-26 | 12 | 47 | 13 | 10 | 3 | 54 |
-| last180d | 2026-05-28 | 21 | 94 | 13 | 18 | 3 | 109 |
-| 360d | 2025-11-29 | 32 | 148 | 14 | 32 | 6 | 144 |
-| last720d | 2024-12-04 | 59 | 281 | 14 | 104 | 11 | 310 |
+| 30d | 2026-10-26 | 5 | 15 | 12 | 0 | 1 | 9 |
+| last60d | 2026-09-26 | 9 | 29 | 12 | 5 | 2 | 29 |
+| 90d | 2026-08-27 | 12 | 47 | 13 | 10 | 3 | 54 |
+| last180d | 2026-05-29 | 21 | 93 | 13 | 18 | 3 | 109 |
+| 360d | 2025-11-30 | 32 | 148 | 14 | 32 | 6 | 144 |
+| last720d | 2024-12-05 | 59 | 281 | 14 | 104 | 11 | 308 |
 
 ## Release 资产
 
@@ -86,19 +86,6 @@ x install dart-sass
 | [dart-sass-1.108.2-windows-arm64.zip](https://github.com/sass/dart-sass/releases/download/1.108.2/dart-sass-1.108.2-windows-arm64.zip) | 4.5 MiB | `native/win/arm64` |
 | [dart-sass-1.108.2-windows-x64.zip](https://github.com/sass/dart-sass/releases/download/1.108.2/dart-sass-1.108.2-windows-x64.zip) | 4.6 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/dart-sass) 上共有 **44** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.108.1` | ⚠️ outdated |
-| Debian 14 | `1.108.1` | ⚠️ outdated |
-| Arch | `1.108.2` | ✅ latest |
-| Homebrew | `1.108.2` | ✅ latest |
-| Nix unstable | `1.108.2` | ✅ latest |
-| Alpine edge | `1.97.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 dart-sass 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dart-sass` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -108,4 +95,4 @@ dart-sass 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:52:07Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:26:01Z._
